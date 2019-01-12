@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "3.3.x",
+    "bootstrap": "3.4.0",
     "react": "*"
   },
   "devDependencies": {
